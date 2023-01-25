@@ -4,8 +4,10 @@
 		"live": "https://davipi.netlify.app/",
 		"git": "https://github.com/Maripirs/pokemon-advantage-calculator",
 		"image": [
-			"./projects-images/pokemon-adv-ss.png",
-			"./projects-images/game-of-tres-ss.png"
+			"./projects-images/pc-1.png",
+			"./projects-images/pc-2.png",
+			"./projects-images/pc-3.png",
+			"./projects-images/pc-4.png"
 		],
 		"tools": [
 			{
@@ -32,8 +34,10 @@
 		"live": "https://maripirs.github.io/Game-of-Tres/",
 		"git": "https://github.com/Maripirs/Game-of-Tres",
 		"image": [
-			"./projects-images/game-of-tres-ss.png",
-			"./projects-images/pokemon-adv-ss.png"
+			"./projects-images/tr-1.png",
+			"./projects-images/tr-2.png",
+			"./projects-images/tr-3.png",
+			"./projects-images/tr-4.png"
 		],
 		"tools": [
 			{
@@ -56,8 +60,10 @@
 		"live": "https://maripirs.github.io/Mastermind/",
 		"git": "https://github.com/Maripirs/Mastermind",
 		"image": [
-			"./projects-images/mastermind-ss.png",
-			"./projects-images/pokemon-adv-ss.png"
+			"./projects-images/mm-1.png",
+			"./projects-images/mm-2.png",
+			"./projects-images/mm-3.png",
+			"./projects-images/mm-4.png"
 		],
 		"tools": [
 			{
@@ -80,8 +86,9 @@
 		"live": "https://maripirs.github.io/Tic-Tac-Toe/",
 		"git": "https://github.com/Maripirs/Tic-Tac-Toe",
 		"image": [
-			"./projects-images/tic-tac-toe-ss.png",
-			"./projects-images/pokemon-adv-ss.png"
+			"./projects-images/ttt-1.png",
+			"./projects-images/ttt-2.png",
+			"./projects-images/ttt-3.png"
 		],
 		"tools": [
 			{
