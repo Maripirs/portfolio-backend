@@ -3,7 +3,10 @@
 		"name": "Pokemon Advantage Calculator",
 		"live": "https://davipi.netlify.app/",
 		"git": "https://github.com/Maripirs/pokemon-advantage-calculator",
-		"image": "./projects-images/pokemon-adv-ss.png",
+		"image": [
+			"./projects-images/pokemon-adv-ss.png",
+			"./projects-images/game-of-tres-ss.png"
+		],
 		"tools": [
 			{
 				"name": "React",
@@ -28,7 +31,10 @@
 		"name": "Game of Tres",
 		"live": "https://maripirs.github.io/Game-of-Tres/",
 		"git": "https://github.com/Maripirs/Game-of-Tres",
-		"image": "./projects-images/game-of-tres-ss.png",
+		"image": [
+			"./projects-images/game-of-tres-ss.png",
+			"./projects-images/pokemon-adv-ss.png"
+		],
 		"tools": [
 			{
 				"name": "JavaScript",
@@ -49,7 +55,10 @@
 		"name": "Mastermind-backend",
 		"live": "https://maripirs.github.io/Mastermind/",
 		"git": "https://github.com/Maripirs/Mastermind",
-		"image": "./projects-images/mastermind-ss.png",
+		"image": [
+			"./projects-images/mastermind-ss.png",
+			"./projects-images/pokemon-adv-ss.png"
+		],
 		"tools": [
 			{
 				"name": "JavaScript",
@@ -70,7 +79,10 @@
 		"name": "Tic Tac Toe",
 		"live": "https://maripirs.github.io/Tic-Tac-Toe/",
 		"git": "https://github.com/Maripirs/Tic-Tac-Toe",
-		"image": "./projects-images/tic-tac-toe-ss.png",
+		"image": [
+			"./projects-images/tic-tac-toe-ss.png",
+			"./projects-images/pokemon-adv-ss.png"
+		],
 		"tools": [
 			{
 				"name": "JavaScript",
